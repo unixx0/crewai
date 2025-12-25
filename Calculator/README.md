@@ -9,7 +9,7 @@ This project helped me gain practical insight into CrewAI’s agent–tool inter
 
 ## Libraries Used
 - CrewAI - for building and managing agents
--crewai-tools - for tool management
+- crewai-tools - for tool management
 - OS - for environment variable handling
 - dotenv - for loading environment variables
 - pydantic - for structured output
